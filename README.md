@@ -8,10 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E5E7EB" alt="LinkedIn" /></a>
-  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" /></a>
-  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=E5E7EB" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SamithThamel&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E5E7EB" alt="LinkedIn" /></a>
+  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=E5E7EB" alt="GitHub" /></a>
+  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&amp;logo=gmail&amp;logoColor=E5E7EB" alt="Email" /></a>
+  <a href="https://github.com/SamithThamel">
+    <img src="https://komarev.com/ghpvc/?username=SamithThamel&amp;label=Profile%20Views&amp;color=1f6feb&amp;style=for-the-badge" alt="Profile views" />
+  </a>
 </p>
 
 <p align="center">
