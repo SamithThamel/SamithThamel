@@ -435,8 +435,7 @@ I am always keen to collaborate, exchange ideas, and learn from experienced engi
 </p>
 
  <p align="center">
--  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Build.+Automate.+Learn.+Improve.+Repeat.🚀" alt="Build, Automate, Learn, Improve, Repeat tagline" />
-+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Build.%20Automate.%20Learn.%20Improve.%20Repeat.%F0%9F%9A%80&v=2" alt="Build, Automate, Learn, Improve, Repeat tagline" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Build.%20Automate.%20Learn.%20Improve.%20Repeat.%F0%9F%9A%80&v=2" alt="Build, Automate, Learn, Improve, Repeat tagline" />
  </p>
 
 <p align="center">
