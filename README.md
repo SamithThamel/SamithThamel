@@ -8,18 +8,18 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SamithThamel&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E5E7EB" alt="LinkedIn" /></a>
+  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" /></a>
+  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=E5E7EB" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SamithThamel&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+%26+Cloud+Engineer;BSc+(Hons)+in+Computer+Science+@+KDU;Docker+%7C+Kubernetes+%7C+Linux+Administration;Terraform+%7C+Ansible+%7C+Infrastructure+as+Code;Continuous+Learning+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+%26+Cloud+Engineer;BSc+(Hons)+in+Computer+Science+@+KDU;Docker+%7C+Kubernetes+%7C+Linux+Administration;Terraform+%7C+Ansible+%7C+Infrastructure+as+Code;Continuous+Learning+%26+Automation+Enthusiast" alt="DevOps and cloud focus rotating headline" />
 </p>
 
 <p align="center">
-  <img src="./assets/devops-hero.gif" alt="DevOps Hero" width="100%" />
+  <img src="./assets/devops-hero.gif" alt="Animated DevOps engineering hero illustration" width="100%" />
 </p>
 
 ---
@@ -27,13 +27,13 @@
 ## 🧭 Navigation
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-38BDF8?style=flat-square&logo=person&logoColor=white" alt="About" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-F59E0B?style=flat-square&logo=python&logoColor=white" alt="Featured Projects" /></a>
-  <a href="#-academic--innovation-projects"><img src="https://img.shields.io/badge/Academic-10B981?style=flat-square&logo=university&logoColor=white" alt="Academic" /></a>
-  <a href="#-technologies--tools"><img src="https://img.shields.io/badge/Stack-8B5CF6?style=flat-square&logo=rocket&logoColor=white" alt="Stack" /></a>
-  <a href="#-achievements--recognition"><img src="https://img.shields.io/badge/Awards-EF4444?style=flat-square&logo=trophy&logoColor=white" alt="Awards" /></a>
-  <a href="#-github-statistics"><img src="https://img.shields.io/badge/Stats-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="Stats" /></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-22C55E?style=flat-square&logo=gmail&logoColor=white" alt="Contact" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-111827?style=for-the-badge&logo=person&logoColor=38BDF8" alt="About" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-111827?style=for-the-badge&logo=python&logoColor=F59E0B" alt="Featured Projects" /></a>
+  <a href="#-academic--innovation-projects"><img src="https://img.shields.io/badge/Academic-111827?style=for-the-badge&logo=bookstack&logoColor=34D399" alt="Academic" /></a>
+  <a href="#-technologies--tools"><img src="https://img.shields.io/badge/Stack-111827?style=for-the-badge&logo=rocket&logoColor=A78BFA" alt="Stack" /></a>
+  <a href="#-achievements--recognition"><img src="https://img.shields.io/badge/Awards-111827?style=for-the-badge&logo=trophy&logoColor=F87171" alt="Awards" /></a>
+  <a href="#-github-statistics"><img src="https://img.shields.io/badge/Stats-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Stats" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge&logo=maildotru&logoColor=4ADE80" alt="Contact" /></a>
 </p>
 
 ---
@@ -62,9 +62,9 @@ I focus on developing practical engineering skills by building real-world projec
 
 > Real repositories built and pushed to my GitHub — highlighted by scope, stack, and impact.
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0D1117">
 
 ### ✨ [Aura Fashion Suite](https://github.com/SamithThamel/aura-fashion-suite)
 > AI-powered fashion retail intelligence platform.
@@ -110,7 +110,7 @@ I focus on developing practical engineering skills by building real-world projec
 - One of my larger front-end builds.
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0D1117">
 
 ### 🎟️ [Event Management System V.1.0](https://github.com/SamithThamel/Event-Management-System-V.1.0)
 > Comprehensive event operations platform.
@@ -190,8 +190,8 @@ I focus on developing practical engineering skills by building real-world projec
 <summary><b>📁 All other repositories I've built</b> — click to expand</summary>
 <br/>
 
-<table>
-  <tr>
+<table width="100%">
+  <tr bgcolor="#111827">
     <th>Repository</th>
     <th>Language</th>
     <th>Description</th>
@@ -249,8 +249,8 @@ I focus on developing practical engineering skills by building real-world projec
 <summary><b>📚 DevOps learning roadmap repositories</b> — curated references I study from</summary>
 <br/>
 
-<table>
-  <tr>
+<table width="100%">
+  <tr bgcolor="#111827">
     <th>Repository</th>
     <th>Focus Area</th>
   </tr>
@@ -301,7 +301,7 @@ I focus on developing practical engineering skills by building real-world projec
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,docker,kubernetes,aws,terraform,ansible,bash,python,git,github,grafana,prometheus,nginx,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,docker,kubernetes,aws,terraform,ansible,bash,python,git,github,grafana,prometheus,nginx,vscode" alt="Technology stack icons including Linux, Docker, Kubernetes, AWS, Terraform, and Ansible" />
   </a>
 </p>
 
@@ -322,9 +322,9 @@ I focus on developing practical engineering skills by building real-world projec
 
 ## 🏆 Achievements & Recognition
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" bgcolor="#0D1117">
 
 #### 🥈 First Runner-Up
 **CodeSprite Competition**
@@ -332,7 +332,7 @@ I focus on developing practical engineering skills by building real-world projec
 <img src="https://img.shields.io/badge/Result-Runner--Up-c084fc?style=for-the-badge&logo=award&logoColor=white" alt="First Runner-Up" />
 
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" bgcolor="#0D1117">
 
 #### 🏆 Most Innovative Project
 **Ideamart**
@@ -340,7 +340,7 @@ I focus on developing practical engineering skills by building real-world projec
 <img src="https://img.shields.io/badge/Award-Innovative-38bdf8?style=for-the-badge&logo=award&logoColor=white" alt="Most Innovative Project" />
 
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" bgcolor="#0D1117">
 
 #### 💻 Participant & Exhibitor
 **TECHXHiBiT 2.0 (2026)**
@@ -358,14 +358,14 @@ I focus on developing practical engineering skills by building real-world projec
 
 | Area | Focus Topics | Progress |
 | :--- | :--- | :---: |
-| **Linux & Systems** | Shell scripting, systemd, process management, permissions, and network troubleshooting | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
-| **Docker & Containers** | Multi-stage builds, volume mounts, networking, Docker Compose orchestration | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
-| **Terraform & IaC** | Providers, reusable modules, remote state management, variables, and outputs | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
-| **Kubernetes** | Pods, Deployments, Services, Ingress controllers, Helm charts, and cluster debugging | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
-| **AWS Cloud** | EC2, VPC, S3, IAM, CloudWatch, and cost-effective architecture design | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
-| **Ansible** | Inventories, playbooks, handlers, roles, and automated configuration management | ![Learning](https://img.shields.io/badge/Status-Learning-blue?style=flat-square) |
-| **CI / CD Pipelines** | GitHub Actions, automated build/test workflows, containerized image releases | ![Learning](https://img.shields.io/badge/Status-Learning-blue?style=flat-square) |
-| **Observability** | Prometheus scraping, Grafana dashboards, centralized log aggregation | ![Learning](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) |
+| **Linux & Systems** | Shell scripting, systemd, process management, permissions, and network troubleshooting | ![In Progress](https://img.shields.io/badge/Status-Active-1F6FEB?style=flat-square&labelColor=0D1117) |
+| **Docker & Containers** | Multi-stage builds, volume mounts, networking, Docker Compose orchestration | ![In Progress](https://img.shields.io/badge/Status-Active-1F6FEB?style=flat-square&labelColor=0D1117) |
+| **Terraform & IaC** | Providers, reusable modules, remote state management, variables, and outputs | ![In Progress](https://img.shields.io/badge/Status-Active-1F6FEB?style=flat-square&labelColor=0D1117) |
+| **Kubernetes** | Pods, Deployments, Services, Ingress controllers, Helm charts, and cluster debugging | ![In Progress](https://img.shields.io/badge/Status-Active-1F6FEB?style=flat-square&labelColor=0D1117) |
+| **AWS Cloud** | EC2, VPC, S3, IAM, CloudWatch, and cost-effective architecture design | ![In Progress](https://img.shields.io/badge/Status-Active-1F6FEB?style=flat-square&labelColor=0D1117) |
+| **Ansible** | Inventories, playbooks, handlers, roles, and automated configuration management | ![Learning](https://img.shields.io/badge/Status-Learning-38BDF8?style=flat-square&labelColor=0D1117) |
+| **CI / CD Pipelines** | GitHub Actions, automated build/test workflows, containerized image releases | ![Learning](https://img.shields.io/badge/Status-Learning-38BDF8?style=flat-square&labelColor=0D1117) |
+| **Observability** | Prometheus scraping, Grafana dashboards, centralized log aggregation | ![Planned](https://img.shields.io/badge/Status-Planned-6B7280?style=flat-square&labelColor=0D1117) |
 
 ---
 
@@ -378,8 +378,8 @@ I focus on developing practical engineering skills by building real-world projec
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamithThamel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithThamel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamithThamel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" alt="GitHub contribution statistics card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithThamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top programming languages used" />
 </p>
 
 <details>
@@ -387,15 +387,15 @@ I focus on developing practical engineering skills by building real-world projec
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamithThamel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamithThamel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies and milestone badges" />
 </p>
 
 <p align="center">
-  <img src="./3D-stats/profile-3d.png" alt="3D Contribution Graph" />
+  <img src="./3D-stats/profile-3d.png" alt="3D contribution activity graph" />
 </p>
 
 <p align="center">
-  <img src="./3D-stats/bar_graph.png" alt="Contribution Bar Graph" />
+  <img src="./3D-stats/bar_graph.png" alt="Contribution bar chart over time" />
 </p>
 
 </details>
@@ -422,10 +422,10 @@ My long-term goal is to grow into an impactful **DevOps and Cloud Engineering Pr
 I am always keen to collaborate, exchange ideas, and learn from experienced engineers across the industry. Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio-five-ivory-41.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E5E7EB" alt="LinkedIn" /></a>
+  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" /></a>
+  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=E5E7EB" alt="Email" /></a>
+  <a href="https://portfolio-five-ivory-41.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Live Portfolio" /></a>
 </p>
 
 <p align="center">
@@ -435,7 +435,7 @@ I am always keen to collaborate, exchange ideas, and learn from experienced engi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Build.+Automate.+Learn.+Improve.+Repeat.🚀" alt="Build. Automate. Learn. Improve. Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Build.+Automate.+Learn.+Improve.+Repeat.🚀" alt="Build, Automate, Learn, Improve, Repeat tagline" />
 </p>
 
 <p align="center">
