@@ -1,77 +1,443 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Samith Thamel</h1>
-<h3 align="center">Devops and Cloud Enthusiast</h3>
+
+<h1 align="center">Hi there, I'm Samith Thamel 👋</h1>
+
+<h3 align="center">Computer Science Undergraduate | Aspiring DevOps & Cloud Engineer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=SamithThamel">
-    <img src="https://komarev.com/ghpvc/?username=SamithThamel&label=Profile%20views&color=00FFFF&style=flat-square" alt="SamithThamel's profile views" />
+  <em>Building practical engineering skills in Cloud Computing, Infrastructure Automation, Containerization, and Linux Systems.</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SamithThamel&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+%26+Cloud+Engineer;BSc+(Hons)+in+Computer+Science+@+KDU;Docker+%7C+Kubernetes+%7C+Linux+Administration;Terraform+%7C+Ansible+%7C+Infrastructure+as+Code;Continuous+Learning+%26+Automation+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./assets/devops-hero.gif" alt="DevOps Hero" width="100%" />
+</p>
+
+---
+
+## 🧭 Navigation
+
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-38BDF8?style=flat-square&logo=person&logoColor=white" alt="About" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-F59E0B?style=flat-square&logo=python&logoColor=white" alt="Featured Projects" /></a>
+  <a href="#-academic--innovation-projects"><img src="https://img.shields.io/badge/Academic-10B981?style=flat-square&logo=university&logoColor=white" alt="Academic" /></a>
+  <a href="#-technologies--tools"><img src="https://img.shields.io/badge/Stack-8B5CF6?style=flat-square&logo=rocket&logoColor=white" alt="Stack" /></a>
+  <a href="#-achievements--recognition"><img src="https://img.shields.io/badge/Awards-EF4444?style=flat-square&logo=trophy&logoColor=white" alt="Awards" /></a>
+  <a href="#-github-statistics"><img src="https://img.shields.io/badge/Stats-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="Stats" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-22C55E?style=flat-square&logo=gmail&logoColor=white" alt="Contact" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Computer Science undergraduate** at the **General Sir John Kotelawala Defence University (KDU)**, Sri Lanka, passionate about **Cloud Computing, DevOps, Linux Systems, and Infrastructure Automation**.
+
+I focus on developing practical engineering skills by building real-world projects, configuring virtual machines, experimenting with container technologies, and understanding how modern cloud applications are deployed, automated, and operated reliably.
+
+- 🎓 **Education:** BSc (Hons) in Computer Science — KDU
+- ☁️ **Primary Focus:** Cloud Computing & DevOps Engineering
+- 🐧 **Operating Systems:** Linux, Ubuntu, and Red Hat Enterprise Linux
+- 🐳 **Containers & Orchestration:** Docker and Kubernetes
+- ⚙️ **Automation & IaC:** Python, Bash, Terraform, and Ansible
+- 🌐 **Networking:** Network Fundamentals, SSH, and System Connectivity
+- 🌱 **Mindset:** *Learn by building, troubleshoot by experimenting, and improve continuously.*
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithThamel&theme=tokyonight&hide_border=true&background=0D1117&border=30363D&ring=38BDF8&fire=38BDF8&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=6B7280" alt="Samith's Streak Stats" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> Real repositories built and pushed to my GitHub — highlighted by scope, stack, and impact.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ✨ [Aura Fashion Suite](https://github.com/SamithThamel/aura-fashion-suite)
+> AI-powered fashion retail intelligence platform.
+
+`AI` `Time-Series` `Forecasting` `Inventory` `Virtual Try-On`
+
+- Time-series **demand forecasting** with classification pipelines.
+- Inventory **optimization** and automated trend analysis.
+- **Photorealistic virtual try-on** studio experience.
+- My most recent and largest AI system build.
+
+<br/>
+
+### 🛒 [E-Commerce Website](https://github.com/SamithThamel/E-Commerce-Website)
+> Full-stack online storefront.
+
+`PHP` `MySQL` `Web` `E-Commerce`
+
+- Catalog, cart, and checkout flow end-to-end.
+- Server-side session and product management.
+- Responsive storefront layout and styling.
+
+<br/>
+
+### 🤖 [Fire Detection & Extinguishing Robot](https://github.com/SamithThamel/Advanced-control-system-for-fire-detection-and-extinguishing-robot)
+> My first hardware project at university.
+
+`Hardware` `Embedded` `Control-Systems` `First-Year`
+
+- Advanced control system for autonomous fire response.
+- Detection-to-extinguishing automation loop.
+- Built as a first-year undergraduate engineering project.
+
+<br/>
+
+### 🍔 [Food Blog App](https://github.com/SamithThamel/Food-blog-App)
+> Recipe and food blogging web application.
+
+`JavaScript` `Frontend` `Web-App`
+
+- Content-driven recipe browsing and publishing.
+- Interactive front-end experience.
+- One of my larger front-end builds.
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🎟️ [Event Management System V.1.0](https://github.com/SamithThamel/Event-Management-System-V.1.0)
+> Comprehensive event operations platform.
+
+`PHP` `MySQL` `Full-Stack` `Largest-Build`
+
+- My **largest repository** by volume and scope.
+- Event creation, booking, and attendee management.
+- Administrative dashboards and reporting.
+
+<br/>
+
+### 🔍 [AI Quiz Analyzer](https://github.com/SamithThamel/Ai-Quiz-Analyzer)
+> Intelligent quiz performance analysis tool.
+
+`Python` `AI` `Analytics` `Automation`
+
+- Parses quiz data and surfaces performance patterns.
+- Automated scoring and insight generation.
+- Scripting-driven, repeatable analysis workflow.
+
+<br/>
+
+### 🧹 [Clean Stream Sync](https://github.com/SamithThamel/clean-stream-sync)
+> Data synchronization and streaming utility.
+
+`TypeScript` `Node` `Data-Pipeline`
+
+- Typed, maintainable synchronization logic.
+- Stream-oriented data handling.
+- Engineering focus on correctness and clarity.
+
+<br/>
+
+### 🌐 [My Portfolio Website](https://github.com/SamithThamel/New-portfolio)
+> Live personal portfolio site.
+
+`HTML` `CSS` `Vercel` `Deployed`
+
+- **Live now** on Vercel — deployed and publicly reachable.
+- Responsive personal branding and project showcase.
+- Continuous iteration on layout and content.
+
+    </td>
+  </tr>
+</table>
+
+### 1. 🐳 [Docker Learning](https://github.com/SamithThamel/Docker-Learning)
+> **Hands-on foundation for containerization and microservice deployments**
+
+- **Repository:** [`SamithThamel/Docker-Learning`](https://github.com/SamithThamel/Docker-Learning)
+- **Tech Stack:** Docker, Dockerfile, Linux, Container Networking
+- **Highlights:**
+  - In-depth practice with container lifecycle, images, volumes, and port binding.
+  - Writing clean, multi-stage `Dockerfile` configurations.
+  - Troubleshooting container networking and isolating application dependencies.
+
+### ☁️ 2. Cloud & Infrastructure Automation
+> **Automating repeatable cloud infrastructure using Infrastructure as Code (IaC)**
+
+- **Tech Stack:** AWS (EC2, VPC, IAM), Terraform, Linux, SSH
+- **Highlights:**
+  - Automated cloud resource provisioning using modular Terraform manifests.
+  - Configured secure SSH access, security groups, and virtual network topologies.
+  - Managing state files and applying repeatable deployment pipelines.
+
+### 🏗️ 3. Kubernetes & Container Orchestration
+> **Cluster architecture, deployment management, and workload resilience**
+
+- **Tech Stack:** Kubernetes, `containerd`, Linux VMs, `kubectl`
+- **Highlights:**
+  - Hands-on cluster configuration spanning control-plane and worker nodes.
+  - Deployed workloads using Pods, Deployments, ConfigMaps, and Services.
+  - Debugging node registration, pod scheduling, and internal DNS/networking.
+
+<details>
+<summary><b>📁 All other repositories I've built</b> — click to expand</summary>
+<br/>
+
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Language</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/Sony_Commercial_Web">Sony_Commercial_Web</a></td>
+    <td><code>CSS</code></td>
+    <td>Commercial-style product landing page.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/Magic_Wish">Magic_Wish</a></td>
+    <td><code>CSS</code></td>
+    <td>Animated, styled front-end concept build.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/Event-Management-System">Event-Management-System</a></td>
+    <td><code>—</code></td>
+    <td>My first web project as a 1st year 1st semester undergraduate.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/Bill-System">Bill-System</a></td>
+    <td><code>Python</code></td>
+    <td>My first Python project as a 1st year 1st semester undergraduate.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/Bill-system-on-c-">Bill-system-on-c-</a></td>
+    <td><code>C++</code></td>
+    <td>C/C++ re-implementation of the billing system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/Waste-Water-Treatement">Waste-Water-Treatement</a></td>
+    <td><code>—</code></td>
+    <td>Companion repository for the Water Treatment academic project.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/SamithThamel">SamithThamel</a></td>
+    <td><code>—</code></td>
+    <td>My GitHub profile README.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/test-web">test-web</a></td>
+    <td><code>CSS</code></td>
+    <td>Quick front-end styling experiments.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SamithThamel/New-repo">New-repo</a></td>
+    <td><code>—</code></td>
+    <td>Sandbox repository for experiments.</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>📚 DevOps learning roadmap repositories</b> — curated references I study from</summary>
+<br/>
+
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Focus Area</th>
+  </tr>
+  <tr><td><a href="https://github.com/SamithThamel/DevOps-Roadmap">DevOps-Roadmap</a></td><td>DevOps learning path & resources (2026)</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/devops-exercises">devops-exercises</a></td><td>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/into-the-devops">into-the-devops</a></td><td>Linux, Jenkins, AWS, SRE, Prometheus & more</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/Kubernetes-Zero-to-Hero">Kubernetes-Zero-to-Hero</a></td><td>Kubernetes from zero</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/ansible-zero-to-hero">ansible-zero-to-hero</a></td><td>Ansible automation from zero</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/DevSecOps-Zero-to-Hero">DevSecOps-Zero-to-Hero</a></td><td>DevSecOps in a week</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/Golang-for-DevOps">Golang-for-DevOps</a></td><td>Golang fundamentals for DevOps engineers</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/python-for-devops">python-for-devops</a></td><td>Python from a DevOps engineer's perspective</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/terraform-azure-aks">terraform-azure-aks</a></td><td>Terraform on Azure AKS</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/argocd-tutorial">argocd-tutorial</a></td><td>Argo Projects tutorials & examples</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/Cloud-DevOps-Learning-Resources">Cloud-DevOps-Learning-Resources</a></td><td>Books & notes for GCP and cloud</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/AWS-Session">AWS-Session</a></td><td>Deploying a Node.js application on AWS EC2</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/Learning-resources-that-i-want">Learning-resources-that-i-want</a></td><td>100+ developer tools & AI workflows</td></tr>
+  <tr><td><a href="https://github.com/SamithThamel/jarvis-ai-assistant">jarvis-ai-assistant</a></td><td>Voice-activated AI assistant</td></tr>
+</table>
+
+</details>
+
+---
+
+## 🔬 Academic & Innovation Projects
+
+### 💧 Water Treatment Plant Management System
+*Academic Software Engineering Project*
+
+- Designed an end-to-end management system for water treatment operations, compliance monitoring, and reporting.
+- **Key Features:**
+  - Real-time water-quality parameter monitoring with automated threshold alerts.
+  - Operator activity logging with photographic verification and audit trails.
+  - Compliance records, maintenance tracking, stock management, and shift rosters.
+  - Role-based workflows and operational visibility dashboards.
+
+### 🛡️ SafePath — Safety & Emergency Assistance
+*Academic Innovation Project*
+
+- Software-driven emergency assistance platform providing real-time hazard awareness and routing.
+- **Key Features:**
+  - Intelligent route planning algorithms avoiding hazardous zones.
+  - Verified emergency shelter directories and dynamic incident alerts.
+  - User authentication, secure data management, and responsive communication channels.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,docker,kubernetes,aws,terraform,ansible,bash,python,git,github,grafana,prometheus,nginx,vscode" alt="My Skills" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+### 📌 Breakdown by Domain
 
-## 📌 About Me
-- ### ⭐ Best Balanced
-- > Computer Science undergraduate | Software Development | DevOps Enthusiast
+| Domain | Technologies & Focus Areas |
+| :--- | :--- |
+| **☁️ Cloud & Infrastructure** | AWS, Virtual Machines (VMs), VPC, IAM, Networking concepts, Infrastructure provisioning |
+| **🐳 Containers & Orchestration** | Docker, Dockerfiles, Container Networking, Kubernetes Architecture, Pods, Deployments, Services |
+| **🐧 Systems & OS** | Linux Administration, Ubuntu, RHEL, Shell / Bash Scripting, SSH troubleshooting, Process management |
+| **⚙️ Automation & IaC** | Terraform, Ansible, Python scripting for system admin, Infrastructure as Code workflows |
+| **💻 Development & Collaboration** | Python, Git, GitHub version control, Branching workflows, Code reviews |
+| **📊 Monitoring & Observability** | Prometheus, Grafana dashboards, Operational metrics, Logs & System visibility |
+
+> ℹ️ *Note: These tools represent my active learning journey and project implementations.*
+
 ---
-- ### 💻 Tech-Oriented
-- > CS undergraduate passionate about backend development, databases, and DevOps tools
+
+## 🏆 Achievements & Recognition
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+
+#### 🥈 First Runner-Up
+**CodeSprite Competition**
+
+<img src="https://img.shields.io/badge/Result-Runner--Up-c084fc?style=for-the-badge&logo=award&logoColor=white" alt="First Runner-Up" />
+
+    </td>
+    <td width="33%" align="center">
+
+#### 🏆 Most Innovative Project
+**Ideamart**
+
+<img src="https://img.shields.io/badge/Award-Innovative-38bdf8?style=for-the-badge&logo=award&logoColor=white" alt="Most Innovative Project" />
+
+    </td>
+    <td width="33%" align="center">
+
+#### 💻 Participant & Exhibitor
+**TECHXHiBiT 2.0 (2026)**
+*KDU BCS Student Chapter*
+
+<img src="https://img.shields.io/badge/Event-TECHXHiBiT%202.0-34d399?style=for-the-badge&logo=eventbrite&logoColor=white" alt="TECHXHiBiT 2.0" />
+
+    </td>
+  </tr>
+</table>
+
 ---
-- ### 🚀 Simple & Professional
-- > Computer Science student exploring software engineering and modern technologies
+
+## 📚 Current Learning Roadmap
+
+| Area | Focus Topics | Progress |
+| :--- | :--- | :---: |
+| **Linux & Systems** | Shell scripting, systemd, process management, permissions, and network troubleshooting | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
+| **Docker & Containers** | Multi-stage builds, volume mounts, networking, Docker Compose orchestration | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
+| **Terraform & IaC** | Providers, reusable modules, remote state management, variables, and outputs | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
+| **Kubernetes** | Pods, Deployments, Services, Ingress controllers, Helm charts, and cluster debugging | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
+| **AWS Cloud** | EC2, VPC, S3, IAM, CloudWatch, and cost-effective architecture design | ![In Progress](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
+| **Ansible** | Inventories, playbooks, handlers, roles, and automated configuration management | ![Learning](https://img.shields.io/badge/Status-Learning-blue?style=flat-square) |
+| **CI / CD Pipelines** | GitHub Actions, automated build/test workflows, containerized image releases | ![Learning](https://img.shields.io/badge/Status-Learning-blue?style=flat-square) |
+| **Observability** | Prometheus scraping, Grafana dashboards, centralized log aggregation | ![Learning](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) |
+
 ---
-- ### 🔧 Practical Learner
-- > CS undergraduate building projects and learning by doing
----
-- ### 🧠 Minimal
-- > CS undergraduate | Coding | Learning
 
+## 📊 GitHub Statistics
 
-## 🧠 My Focus Areas
-- Cloud • DevOps • Automation | CS undergraduate
-
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SamithThamel&theme=nightowl&hide_border=true&cache_seconds=86400" alt="SamithThamel's GitHub Streak" width="49%" />
+  <a href="https://github.com/SamithThamel">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamithThamel&theme=tokyonight&hide_border=true" alt="Samith's Streak Stats" />
+  </a>
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamithThamel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamithThamel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+<details>
+<summary><b>🏆 GitHub trophies & contribution graph</b> — click to expand</summary>
+<br/>
 
-## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamithThamel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="./3D-stats/profile-3d.png" alt="3D Contribution Graph" />
+</p>
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="./3D-stats/bar_graph.png" alt="Contribution Bar Graph" />
+</p>
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /></p>
+</details>
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+---
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+## 🎯 Career Goals & What I'm Looking For
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+My long-term goal is to grow into an impactful **DevOps and Cloud Engineering Professional** with rigorous hands-on competence across Linux environments, cloud architectures, automated deployment pipelines, and site reliability.
 
+- 🔍 **Actively Seeking:**
+  - DevOps Engineering Internships
+  - Cloud Engineering Internships / Junior Roles
+  - Collaborative Open-Source & Infrastructure Automation Projects
+- 💡 **Value I Bring:**
+  - Strong foundation in systems engineering and container fundamentals.
+  - Curiosity and persistence to troubleshoot complex issues.
+  - A commitment to continuous learning, documentation, and clean automation.
 
+---
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/samith-thamel-a87972316?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9DUT2P3OQeq3ch9YVIFEfg%3D%3D" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:thamelsamith@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://samiththamel.github.io/New-portfolio/Home.html" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+## 🤝 Let's Connect!
 
-## 💬 Quote
-> Learner
+I am always keen to collaborate, exchange ideas, and learn from experienced engineers across the industry. Feel free to reach out!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <a href="https://linkedin.com/in/samith-thamel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/SamithThamel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:samiththamel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-five-ivory-41.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+<p align="center">
+  <img src="./assets/clock.svg" alt="Local time in Sri Lanka" width="120" />
+  <br/>
+  <sub>🕒 <b>Local Time in Sri Lanka (IST · UTC+5:30)</b></sub>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Build.+Automate.+Learn.+Improve.+Repeat.🚀" alt="Build. Automate. Learn. Improve. Repeat." />
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ by Samith Thamel · KDU, Sri Lanka</sub>
+</p>
